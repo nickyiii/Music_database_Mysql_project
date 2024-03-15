@@ -1,9 +1,11 @@
 # Music_database_Mysql_project
-Overview
+Overview:
+
 This dataset contains information related to a music store database. It includes tables for albums, artists, customers, invoices, genres, playlists, playlist types, and tracks.
 The dataset provides a comprehensive view of the music store's operations, including sales, customer information, and music inventory.
 
-Tables
+Tables:
+
 Album: Contains information about music albums, including album ID, title, and artist ID.
 Artist: Stores details about music artists, such as artist ID and name.
 Customer: Includes customer information like customer ID, name, and contact details.
